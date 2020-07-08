@@ -1,0 +1,5 @@
+{12|the left-side|1990 no 3|Header's Effort}
+{14|Right recursion|LL(1) grammer|Header's Effort}
+{17|FOO FOO|Wool shed|Right recursion}
+{18|Wool shed|Right recursion}
+{19|the left-side|Header's Effort}
