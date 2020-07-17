@@ -134,7 +134,7 @@ int main(int argc, char *argv[])
     }
 
     if (argc == 1) {
-        do_file("index3.html");
+        do_file("index2.html");
     } else {
         while (argc > 1) {
             do_file(argv[1]);
