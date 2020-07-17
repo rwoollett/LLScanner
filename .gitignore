@@ -98,3 +98,4 @@ Makefile.in
 /.vs/ScannerParsing/v15
 /TestScannerParse/x64/Debug
 /x64/Debug
+/x64/
